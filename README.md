@@ -1,6 +1,6 @@
 ### Hello People
 
-<!--
+
 **I am a senior engineer interested in creating intelligent systems. I do research with the University of Stuttgart in Anomaly Detection Use cases.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
