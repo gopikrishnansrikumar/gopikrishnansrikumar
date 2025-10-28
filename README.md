@@ -1,6 +1,6 @@
 # Hello there
 
-I’m **Srikumar Gopikrishnan**, a **Senior Engineer and LLM Agentic Systems Researcher** focused on developing intelligent, autonomous, and collaborative AI systems.  
+I’m **Gopikrishnan Srikumar**, a **Senior Engineer and LLM Agentic Systems Researcher** focused on developing intelligent, autonomous, and collaborative AI systems.  
 My work bridges **Large Language Models (LLMs)**, **multi-agent coordination**, and **adaptive control frameworks** to build scalable agentic intelligence.
 
 - Currently working on **LLM agents**, **MCP**, **A2A**, **LangGraph**, and **Google AFDK**  
